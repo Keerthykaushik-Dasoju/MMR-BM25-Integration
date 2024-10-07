@@ -1,0 +1,405 @@
+{
+  "task": "LaMP_2",
+  "golds": [
+    {
+      "id": "11758",
+      "output": "culture & arts"
+    },
+    {
+      "id": "11962",
+      "output": "politics"
+    },
+    {
+      "id": "1129",
+      "output": "entertainment"
+    },
+    {
+      "id": "11234",
+      "output": "crime"
+    },
+    {
+      "id": "11365",
+      "output": "parents"
+    },
+    {
+      "id": "1121",
+      "output": "parents"
+    },
+    {
+      "id": "1136",
+      "output": "business"
+    },
+    {
+      "id": "11688",
+      "output": "politics"
+    },
+    {
+      "id": "11244",
+      "output": "politics"
+    },
+    {
+      "id": "11388",
+      "output": "parents"
+    },
+    {
+      "id": "119",
+      "output": "Entertainment"
+    },
+    {
+      "id": "11932",
+      "output": "politics"
+    },
+    {
+      "id": "11739",
+      "output": "politics"
+    },
+    {
+      "id": "1198",
+      "output": "Entertainment"
+    },
+    {
+      "id": "11406",
+      "output": "Style & Beauty"
+    },
+    {
+      "id": "11516",
+      "output": "politics"
+    },
+    {
+      "id": "11952",
+      "output": "politics"
+    },
+    {
+      "id": "11315",
+      "output": "politics"
+    },
+    {
+      "id": "1177",
+      "output": "entertainment"
+    },
+    {
+      "id": "11948",
+      "output": "politics"
+    },
+    {
+      "id": "11275",
+      "output": "travel"
+    },
+    {
+      "id": "11823",
+      "output": "Politics"
+    },
+    {
+      "id": "11120",
+      "output": "entertainment"
+    },
+    {
+      "id": "11734",
+      "output": "law & politics"
+    },
+    {
+      "id": "11702",
+      "output": "politics"
+    },
+    {
+      "id": "1163",
+      "output": "healthy living"
+    },
+    {
+      "id": "11522",
+      "output": "politics"
+    },
+    {
+      "id": "11514",
+      "output": "politics"
+    },
+    {
+      "id": "11834",
+      "output": "politics"
+    },
+    {
+      "id": "11284",
+      "output": "politics"
+    },
+    {
+      "id": "11957",
+      "output": "politics"
+    },
+    {
+      "id": "11645",
+      "output": "politics category."
+    },
+    {
+      "id": "11789",
+      "output": "politics"
+    },
+    {
+      "id": "11792",
+      "output": "politics"
+    },
+    {
+      "id": "1172",
+      "output": "Entertainment."
+    },
+    {
+      "id": "11683",
+      "output": "crime"
+    },
+    {
+      "id": "11259",
+      "output": "politics"
+    },
+    {
+      "id": "11701",
+      "output": "politics"
+    },
+    {
+      "id": "11161",
+      "output": "entertainment"
+    },
+    {
+      "id": "111016",
+      "output": "politics"
+    },
+    {
+      "id": "111004",
+      "output": "Women"
+    },
+    {
+      "id": "11349",
+      "output": "parents"
+    },
+    {
+      "id": "11400",
+      "output": "parents"
+    },
+    {
+      "id": "11463",
+      "output": "politics"
+    },
+    {
+      "id": "11274",
+      "output": "healthy living"
+    },
+    {
+      "id": "11807",
+      "output": "politics"
+    },
+    {
+      "id": "11214",
+      "output": "politics"
+    },
+    {
+      "id": "11917",
+      "output": "politics"
+    },
+    {
+      "id": "11912",
+      "output": "politics"
+    },
+    {
+      "id": "11137",
+      "output": "entertainment"
+    },
+    {
+      "id": "11598",
+      "output": "crime"
+    },
+    {
+      "id": "11445",
+      "output": "politics"
+    },
+    {
+      "id": "111000",
+      "output": "entertainment"
+    },
+    {
+      "id": "111004",
+      "output": "Women"
+    },
+    {
+      "id": "1176",
+      "output": "politics"
+    },
+    {
+      "id": "11672",
+      "output": "politics"
+    },
+    {
+      "id": "11778",
+      "output": "politics"
+    },
+    {
+      "id": "11414",
+      "output": "entertainment"
+    },
+    {
+      "id": "1192",
+      "output": "Entertainment"
+    },
+    {
+      "id": "11304",
+      "output": "entertainment"
+    },
+    {
+      "id": "11713",
+      "output": "politics"
+    },
+    {
+      "id": "11522",
+      "output": "politics"
+    },
+    {
+      "id": "1139",
+      "output": "politics"
+    },
+    {
+      "id": "11591",
+      "output": "politics"
+    },
+    {
+      "id": "11732",
+      "output": "politics"
+    },
+    {
+      "id": "11714",
+      "output": "crime"
+    },
+    {
+      "id": "11650",
+      "output": "Women"
+    },
+    {
+      "id": "11801",
+      "output": "politics"
+    },
+    {
+      "id": "11244",
+      "output": "politics"
+    },
+    {
+      "id": "11149",
+      "output": "entertainment"
+    },
+    {
+      "id": "11340",
+      "output": "politics"
+    },
+    {
+      "id": "11834",
+      "output": "politics"
+    },
+    {
+      "id": "11493",
+      "output": "politics"
+    },
+    {
+      "id": "11993",
+      "output": "politics"
+    },
+    {
+      "id": "11365",
+      "output": "parents"
+    },
+    {
+      "id": "11922",
+      "output": "politics"
+    },
+    {
+      "id": "11459",
+      "output": "politics"
+    },
+    {
+      "id": "11786",
+      "output": "politics"
+    },
+    {
+      "id": "11593",
+      "output": "politics"
+    },
+    {
+      "id": "11244",
+      "output": "politics"
+    },
+    {
+      "id": "11966",
+      "output": "entertainment"
+    },
+    {
+      "id": "11939",
+      "output": "education"
+    },
+    {
+      "id": "11256",
+      "output": "crime"
+    },
+    {
+      "id": "1131",
+      "output": "entertainment"
+    },
+    {
+      "id": "11648",
+      "output": "travel"
+    },
+    {
+      "id": "11446",
+      "output": "politics"
+    },
+    {
+      "id": "11830",
+      "output": "politics"
+    },
+    {
+      "id": "11821",
+      "output": "politics"
+    },
+    {
+      "id": "11538",
+      "output": "politics"
+    },
+    {
+      "id": "1117",
+      "output": "travel"
+    },
+    {
+      "id": "11985",
+      "output": "Politics"
+    },
+    {
+      "id": "11219",
+      "output": "crime"
+    },
+    {
+      "id": "11548",
+      "output": "politics"
+    },
+    {
+      "id": "11998",
+      "output": "technology"
+    },
+    {
+      "id": "11974",
+      "output": "politics"
+    },
+    {
+      "id": "11926",
+      "output": "politics"
+    },
+    {
+      "id": "11638",
+      "output": "style & beauty"
+    },
+    {
+      "id": "11504",
+      "output": "politics"
+    },
+    {
+      "id": "11517",
+      "output": "politics"
+    },
+    {
+      "id": "1187",
+      "output": "Entertainment"
+    }
+  ]
+}

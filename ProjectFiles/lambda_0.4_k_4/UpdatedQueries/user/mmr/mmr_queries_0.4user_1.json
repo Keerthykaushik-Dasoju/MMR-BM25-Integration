@@ -1,0 +1,402 @@
+[
+  {
+    "id": "01675",
+    "input": "For an author who has written the paper with the title \"Mining Compositional Features From GPS and Visual Cues for Event Recognition in Photo Collections Mining GPS traces and visual words for event classification Efficient Mining of Optimal AND/OR Patterns for Visual Recognition Location Discriminative Vocabulary Coding for Mobile Landmark Search Learning LBP structure by maximizing the conditional mutual information\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Beyond spatial pyramids: Receptive field learning for pooled image features\" [2]: \"A generic framework of user attention model and its application in video summarization\""
+  },
+  {
+    "id": "01971",
+    "input": "For an author who has written the paper with the title \"Distributed Frequent Closed Itemsets Mining A Partial-Repeatability Approach to Data Mining Fuzzy Reasoning as a Control Problem An Intelligent Control Architecture For Adaptive Service-Based Software Systems A Data Mining Approach for Software State Definition\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A hierarchical optimization neural network for large-scale dynamic systems\" [2]: \"Self-representation nearest neighbor search for classification.\""
+  },
+  {
+    "id": "01632",
+    "input": "For an author who has written the paper with the title \"A fast stereo matching algorithm for real-time robot application. An Evolutionary Approach To Materialized Views Selection In A Data Warehouse Environment An Approach Towards Task Abstraction And Aggregation In Business Processes The Capability Matching of Web Services Line and V-Shape Formation Based Distributed Processing for Robotic Swarms.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"An asymptotically optimal multiversion B-tree\" [2]: \"OpenFlow: enabling innovation in campus networks\""
+  },
+  {
+    "id": "011221",
+    "input": "For an author who has written the paper with the title \"Explanation-based learning: a problem solving perspective Strategies for learning search control rules: an explanation-based approach Integrating abstraction and explanation-based learning in PRODIGY Using the structure of Web sites for automatic segmentation of tables Solving large-scale constraint satisfaction and scheduling problems using a heuristic repair method\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Exploiting aggregate properties of bilingual dictionaries for distinguishing senses of English words and inducing English sense clusters\" [2]: \"Probe, Cluster, and Discover: Focused Extraction of QA-Pagelets from the Deep Web\""
+  },
+  {
+    "id": "011360",
+    "input": "For an author who has written the paper with the title \"The Parametrized Complexity of Some Fundamental Problems in Coding Theory Fork-decompositions of matroids A short proof of non-GF(5)-representability of matroids Dowling group geometries and the critical problem A characterization of the matroids representable over GF(3) and the rationals\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Kernelization Algorithms for the Vertex Cover Problem: Theory and Experiments\" [2]: \"A unique factorization theorem for matroids\""
+  },
+  {
+    "id": "011524",
+    "input": "For an author who has written the paper with the title \"LG-Graph Based Detection of NRF Spectrum Signatures: Initial Results and Comparison Text document clustering based on neighbors Text document clustering based on frequent word meaning sequences A parallel text document clustering algorithm based on neighbors Combination Of Multiple Feature Selection Methods For Text Categorization By Using Combinatorial Fusion Analysis And Rank-Score Characteristic\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Geometric and Illumination Invariants for Object Recognition\" [2]: \"A Roadmap For Strategic Research On Virtual Organizations\""
+  },
+  {
+    "id": "011657",
+    "input": "For an author who has written the paper with the title \"HYPER: A New Approach for the Recognition and Positioning of Two-Dimensional Objects Topological segmentation of discrete surfaces Bayesian atlas estimation for the variability analysis of shape complexes. Robustness of model-based recognition in cluttered images 3D-2D projective registration of free-form curves and surfaces\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Fast Sweeping Algorithms for a Class of Hamilton-Jacobi Equations\" [2]: \"Ridges for image analysis\""
+  },
+  {
+    "id": "01363",
+    "input": "For an author who has written the paper with the title \"An end-to-end approach to making self-folded 3D surface shapes by uniform heating Making shapes from modules by magnification Planning to fold multiple objects from a single self-folding sheet Self-pop-up cylindrical structure by global heating Reactive mission and motion planning with deadlock resolution avoiding dynamic obstacles.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"On the verification of hypothesized matches in model-based recognition\" [2]: \"Ununfoldable polyhedra\""
+  },
+  {
+    "id": "011576",
+    "input": "For an author who has written the paper with the title \"A pipelined architecture for image segmentation by adaptive progressive thresholding Segmenting endoscopic images using adaptive progressive thresholding: a hardware perspective An Adaptive Technique for the Extraction of Object Region and Boundary from Images with Complex Environment An automated feature-localisation algorithm for a feature-specific modular approach for face recognition Adaptive technique for image compression based on vector quantization using a self-organizing neural network\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Face Detection From Color Images Using a Fuzzy Pattern Matching Method\" [2]: \"Stereoscopic image quality compendium\""
+  },
+  {
+    "id": "011552",
+    "input": "For an author who has written the paper with the title \"A brief overview of the NEBULA future internet architecture One Primitive to Diagnose Them All: Architectural Support for Internet Diagnostics. Towards application-aware anonymous routing Declarative networking: language, execution and optimization Towards a declarative language and system for secure networking\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Sloppy Hashing and Self-Organizing Clusters\" [2]: \"PortOS: an educational operating system for the Post-PC environment\""
+  },
+  {
+    "id": "0197",
+    "input": "For an author who has written the paper with the title \"BorderGuard: detecting cold potatoes from peers Internet-scale malware mitigation: combining intelligence of the control and data plane Finding a needle in a haystack: pinpointing significant BGP routing changes in an IP network Cellular data network infrastructure characterization and implication on mobile content placement Locating internet routing instabilities\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"An implementation and analysis of the virtual interface architecture\" [2]: \"Exposing private information by timing web applications\""
+  },
+  {
+    "id": "011015",
+    "input": "For an author who has written the paper with the title \"Load Profiling Based Routing for Guaranteed Bandwidth Flows Load Profiling for Efficient Route Selection in Multi-Class Networks Load profiling in distributed real-time systems Amorphous Placement and Informed Diffusion for Timely Field Monitoring by Autonomous, Resource-Constrained, Mobile Sensors Multiplexing VBR Traffic Flows with Guaranteed Application-level QoS Using Statistical Rate Monotonic Scheduling\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Video on demand over ATM: constant-rate transmission and transport\" [2]: \"Wide area traffic: the failure of Poisson modeling\""
+  },
+  {
+    "id": "01772",
+    "input": "For an author who has written the paper with the title \"Making inconsistency respectable: a logical framework for inconsistency in reasoning Making Inconsistency Respectable: Part 2 - Meta-level handling of inconsistency Reasoning with inconsistency in structured text An argument-based approach to reasoning with clinical knowledge Measuring inconsistency in knowledgebases\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Impartiality, Justice and Fairness: The Ethics of Concurrent Termination\" [2]: \"Dominant decisions by argumentation agents\""
+  },
+  {
+    "id": "01440",
+    "input": "For an author who has written the paper with the title \"A Survey of System Software for Wireless Sensor Networks Dependability Considerations in Wireless Sensor Networks Applications Achieving Availability and Reliability in Wireless Sensor Networks Applications A Middleware Layer Mechanism for QoS Support in Wireless Sensor Networks SPACC: a simple positioning and coverage control solution for wireless sensor networks\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"The design and implementation of an asynchronous communication mechanism for the MPI communication model\" [2]: \"Untraceable electronic mail, return addresses, and digital pseudonyms\""
+  },
+  {
+    "id": "012477",
+    "input": "For an author who has written the paper with the title \"Mixing Electronic Institutions with Virtual Organizations: A Solution Based on Bundles. Using Emotions in Intelligent Virtual Environments: The EJaCalIVE Framework. Real-time CBR-agent with a mixture of experts in the reuse stage to classify and detect DoS attacks Extending JaCalIVE Framework to Create Virtual Worlds by Means of an OWL Ontology. Towards The Development Of Agent-Based Organizations Through Mdd\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A Role Based Model for the Normative Specification of Organized Collective Agency and Agents Interaction\" [2]: \"Decentralized approaches for self-adaptation in agent organizations\""
+  },
+  {
+    "id": "011641",
+    "input": "For an author who has written the paper with the title \"Learning Logic Rules For The Tower Of Knowledge Using Markov Logic Networks Learning logic rules for scene interpretation based on markov logic networks 3D Scene interpretation by combining probability theory and logic: The tower of knowledge Recursive Tower of Knowledge for Learning to Interpret Scenes Learning in computer vision: some thoughts\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Low-Level Processing Techniques In Geophysical Image Interpretation\" [2]: \"Signal Processing in Cognitive Radio\""
+  },
+  {
+    "id": "011152",
+    "input": "For an author who has written the paper with the title \"Norm Adaptation of Autonomic Electronic Institutions with Multiple Goals. Towards Self-configuration in Autonomic Electronic Institutions Using case-based reasoning in autonomic electronic institutions Engineering open environments with electronic institutions Operationalisation of norms for usage in electronic institutions\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Taming the torrent: a practical approach to reducing cross-isp traffic in peer-to-peer systems\" [2]: \"On agent-based software engineering\""
+  },
+  {
+    "id": "011717",
+    "input": "For an author who has written the paper with the title \"Agent-based System Architecture forWireless Sensor Networks Collaborative Agents for Data Dissemination in Wireless Sensor Networks P2p Multi-Agent Data Transfer And Aggregation In Wireless Sensor Networks Sandstorm monitoring system architecture using agents and sensor networks An agent-based approach to security service\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Mobile ad hoc networking and the IETF\" [2]: \"Energy efficiency of MIMO transmissions in wireless sensor networks with diversity and multiplexing gains\""
+  },
+  {
+    "id": "012375",
+    "input": "For an author who has written the paper with the title \"Scipvm: Parallel Distributed Computing On Sci Workstation Clusters Multiparadigm Distributed Computing With Tpvm Pvanim: A Tool For Visualization In Network Computing Environments Icet: Distributed Computing And Java Heterogeneous Parallel Computing Across Multidomain Clusters\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Information and Communication Systems for Mobile Emergency Response\" [2]: \"Kerberos: An Authentication Service for Open Network Systems\""
+  },
+  {
+    "id": "01419",
+    "input": "For an author who has written the paper with the title \"From ADEPT to AristaFlow BPM Suite: A Research Vision Has Become Reality Enabling Poka-Yoke Workflows with the AristaFlow BPM Suite A systematic review on security in Process-Aware Information Systems - Constitution, challenges, and future directions Next-generation Process Management with ADEPT2 A systematic literature review on process model testing: Approaches, challenges, and research directions.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Automatic BDI Plan Recognition from Process Execution Logs and Effect Logs.\" [2]: \"Towards Gesture-Based Process Modeling on Multi-touch Devices.\""
+  },
+  {
+    "id": "011339",
+    "input": "For an author who has written the paper with the title \"Scale-Time Kernels and Models Detection and localization of random signals A unifying framework for automatic and semi-automatic segmentation of vertebrae from radiographs using sample-driven active shape models A multi-scale kernel bundle for LDDMM: towards sparse deformation description across space and scales. Image registration using stationary velocity fields parameterized by norm-minimizing Wendland kernel\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Intraretinal Layer Segmentation of Macular Optical Coherence Tomography Images Using Optimal 3-D Graph Search.\" [2]: \"A Multigrid Platform for Real-Time Motion Computation with Discontinuity-Preserving Variational Methods\""
+  },
+  {
+    "id": "01309",
+    "input": "For an author who has written the paper with the title \"A Software Defined Networking architecture for the Internet-of-Things Software Defined Networking for Quality-aware Management of Multi-hop Spontaneous Networks The real Ad-hoc Multi-hop Peer-to-peer (RAMP) middleware: An easy-to-use support for spontaneous networking Mobile social networking middleware: A survey. Social-Aware Differentiated Visibility of Home-to-Home Shared Resources in Spontaneous Networks\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Metadata creation system for mobile images\" [2]: \"Energy-efficient scheduling policy for collaborative execution in mobile cloud computing\""
+  },
+  {
+    "id": "011121",
+    "input": "For an author who has written the paper with the title \"Generating implications for design through design research An analysis and critique of Research through Design: towards a formalization of a research approach Critical design and critical theory: the challenge of designing for provocation Families and services: understanding opportunities for co-production of value in service design UX Design Innovation: Challenges for Working with Machine Learning as a Design Material.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A vector space model for automatic indexing\" [2]: \"Spatial workspace collaboration: a SharedView video support system for remote collaboration capability\""
+  },
+  {
+    "id": "01922",
+    "input": "For an author who has written the paper with the title \"Entity-Linking Via Graph-Distance Minimization Using graph distances for named-entity linking HyperANF: approximating the neighbourhood function of very large graphs on a budget Generic Damping Functions For Propagating Importance In Link-Based Ranking Axioms For Centrality\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Long short-term memory.\" [2]: \"SoftRank: optimizing non-smooth rank metrics\""
+  },
+  {
+    "id": "01416",
+    "input": "For an author who has written the paper with the title \"Program Graph Structuring for Execution in Dynamic SMP Clusters Using Moldable Tasks Program Execution Control in a Multi CMP Module System with a Look-Ahead Configured Global Network Comparison of program task scheduling algorithms for dynamic SMP clusters with communication on the fly Multi-CMP module system based on a look-ahead configured global network Communication on the Fly and Program Execution Control in a System of Dynamically Configurable SMP Clusters\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"The Speculative Method of Transient State Analysis with a Variable Integration Step\" [2]: \"Improved approximation algorithms for scheduling with fixed jobs\""
+  },
+  {
+    "id": "01976",
+    "input": "For an author who has written the paper with the title \"Assessing efficiency\u2013effectiveness tradeoffs in multi-stage retrieval systems without using relevance judgments The effect of pooling and evaluation depth on IR metrics. Estimating Measurement Uncertainty for Information Retrieval Effectiveness Metrics A Flexible Framework for Offline Effectiveness Metrics Pooled Evaluation Over Query Variations: Users are as Diverse as Systems\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Modeling User Search Behavior\" [2]: \"Succinct indexable dictionaries with applications to encoding k-ary trees and multisets\""
+  },
+  {
+    "id": "01344",
+    "input": "For an author who has written the paper with the title \"CoTeSys --- Cognition for Technical Systems Cognitive Technical Systems -- What Is the Role of Artificial Intelligence? Safety assessment for stochastic linear systems using enclosing hulls of probability density functions Impact of Animal-Like Features on Emotion Expression of Robot Head EDDIE Reachability Analysis of Linear Systems with Uncertain Parameters and Inputs\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance\" [2]: \"Theoretical and Empirical Analysis of ReliefF and RReliefF\""
+  },
+  {
+    "id": "012328",
+    "input": "For an author who has written the paper with the title \"The power of geometric duality Online Dynamic Power Management with Hard Real-Time Guarantees. Power Domination in Circular-Arc Graphs. Towards Web-Based Computing Online Power-Managing Strategy with Hard Real-Time Guarantees\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Discriminative semi-supervised feature selection via manifold regularization.\" [2]: \"Broadcasting on Networks of Workstations\""
+  },
+  {
+    "id": "01675",
+    "input": "For an author who has written the paper with the title \"Mining Compositional Features From GPS and Visual Cues for Event Recognition in Photo Collections Mining GPS traces and visual words for event classification Efficient Mining of Optimal AND/OR Patterns for Visual Recognition Location Discriminative Vocabulary Coding for Mobile Landmark Search Learning LBP structure by maximizing the conditional mutual information\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Beyond spatial pyramids: Receptive field learning for pooled image features\" [2]: \"A generic framework of user attention model and its application in video summarization\""
+  },
+  {
+    "id": "011520",
+    "input": "For an author who has written the paper with the title \"A review on objective measurement of usage in technology acceptance studies On accepting smart environments at user and societal levels A neural network model to minimize the connected dominating set for self-configuration of wireless sensor networks. Implementing a component-based tool for interactive synthesis of UML statechart diagrams Task-oriented distributed data fusion in autonomous wireless sensor networks.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Getting the most from search-based refactoring\" [2]: \"Assessing subjective response to haptic feedback in automotive touchscreens\""
+  },
+  {
+    "id": "011893",
+    "input": "For an author who has written the paper with the title \"Power-efficient video encoding on resource-limited systems: A game-theoretic approach On optimal layering and bandwidth allocation for multisession video broadcasting On the locality of BitTorrent-based video file swarming Understand traffic locality of peer-to-peer video file swarming Dynamic layering and bandwidth allocation for multisession video broadcasting with general utility functions\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Rhythmic-motion synthesis based on motion-beat analysis\" [2]: \"Analysis of educational media server workloads\""
+  },
+  {
+    "id": "011272",
+    "input": "For an author who has written the paper with the title \"Query by dialog: an interactive approach to pictorial querying Symbolic Description and Visual Querying of Image Sequences Using Spatio-Temporal Logic Image retrieval by color semantics with incomplete knowledge Color-induced image representation and retrieval Visual Image Retrieval by Elastic Matching of User Sketches\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Web sites that work: designing with your eyes open\" [2]: \"Learning Discriminative Appearance-Based Models Using Partial Least Squares\""
+  },
+  {
+    "id": "011331",
+    "input": "For an author who has written the paper with the title \"Generalised Cumulative Arrays in Secret Sharing Decomposition Construction for Secret Sharing Schemes with Graph Access Structures in Polynomial Time Multi-party computation with conversion of secret sharing Ideal Threshold Schemes from Orthogonal Arrays On Construction of Cumulative Secret Sharing Schemes\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Attribute-based encryption for fine-grained access control of encrypted data\" [2]: \"New directions in cryptography\""
+  },
+  {
+    "id": "012098",
+    "input": "For an author who has written the paper with the title \"HCI, Solidarity Movements and the Solidarity Economy. UNDER DEVELOPMENT: Audiophoto narratives for semi-literate communities Crafting urban camouflage PicoTales: collaborative authoring of animated stories using handheld projectors Exploring the use of the Physical Web with Resource-Constrained Communities.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"On the searchability of small-world networks with arbitrary underlying structure\" [2]: \"Sotto voce: exploring the interplay of conversation and mobile audio spaces\""
+  },
+  {
+    "id": "01710",
+    "input": "For an author who has written the paper with the title \"Fixed Point Approach to Commutation of Languages On the Complexity of Decidable Cases of Commutation Problem for Languages The branching point approach to Conway's problem Some Decision Problems Concerning Semilinearity and Commutation On the complexity of decidable cases of the commutation problem of languages\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Binary equality sets are generated by two words\" [2]: \"Decidabilite de la finitude des demi-groupes de matrices\""
+  },
+  {
+    "id": "011217",
+    "input": "For an author who has written the paper with the title \"An annotation type system for a data-driven NLP pipeline Facilitating the analysis of discourse phenomena in an interoperable NLP platform Generalising semantic category disambiguation with large lexical resources for fun and profit. Interoperability and Customisation of Annotation Schemata in Argo. Argo: an integrative, interactive, text mining-based workbench supporting curation.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Fuzzy translation of cross-lingual spelling variants\" [2]: \"Cascaded classifiers for confidence-based chemical named entity recognition.\""
+  },
+  {
+    "id": "011971",
+    "input": "For an author who has written the paper with the title \"Joint modeling of anatomical and functional connectivity for population studies. Joint generative model for fMRI/DWI and its application to population studies. White matter bundle registration and population analysis based on Gaussian processes. Investigation into local white matter abnormality in emotional processing and sensorimotor areas using an automatically annotated fiber clustering in major depressive disorder. A dual spherical model for multi-shell diffusion imaging\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Nonparametric statistical snake based on the minimum stochastic complexity.\" [2]: \"Multi-Atlas Segmentation with Joint Label Fusion.\""
+  },
+  {
+    "id": "012262",
+    "input": "For an author who has written the paper with the title \"Quasi-Randomness and Algorithmic Regularity for Graphs with General Degree Distributions Finding Planted Partitions in Random Graphs with General Degree Distributions MAX k-CUT and approximating the chromatic number of random graphs Spectral Partitioning of Random Graphs with Given Expected Degrees Partitioning Random Graphs with General Degree Distributions\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Asymptotic properties of labeled connected graphs\" [2]: \"A time-space tradeoff for sorting on a general sequential model of computation\""
+  },
+  {
+    "id": "01464",
+    "input": "For an author who has written the paper with the title \"Estimating internet address space usage through passive measurements Lost in Space: Improving Inference of IPv4 Address Space Utilization. Leveraging Internet Background Radiation for Opportunistic Network Analysis A study of burstiness in TCP flows Understanding Internet traffic streams: dragonflies and tortoises\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"In search of the elusive ground truth: the internet's as-level connectivity structure\" [2]: \"YAF: yet another flowmeter\""
+  },
+  {
+    "id": "012350",
+    "input": "For an author who has written the paper with the title \"Load-sensitive selective pruning for distributed search Learning to predict response times for online query scheduling Efficient and effective retrieval using selective pruning Performance comparison of clustered and replicated information retrieval systems Performance analysis of distributed information retrieval architectures using an improved network simulation model\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A workload-based analysis of software aging, and rejuvenation\" [2]: \"Combining the language model and inference network approaches to retrieval\""
+  },
+  {
+    "id": "011185",
+    "input": "For an author who has written the paper with the title \"A Proposal for Petri Net Based Web Service Application Modeling A proposal for structuring Petri net-based agent interaction protocols A Conceptual and Practical Framework for Web-Based Processes in Multi-Agent Systems Modeling with Service Dependency Diagrams Modeling dynamic architectures using nets-within-nets\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Properties of Object Petri Nets\" [2]: \"Architectural power analysis: the dual bit type method\""
+  },
+  {
+    "id": "01601",
+    "input": "For an author who has written the paper with the title \"Retrieving Handwriting Styles: A Content Based Approach to Handwritten Document Retrieval Biomedical Article Retrieval Using Multimodal Features And Image Annotations In Region-Based Cbir Handwritten document retrieval strategies Unconstrained handwritten document retrieval Automatic Identification Of Roi In Figure Images Toward Improving Hybrid (Text And Image) Biomedical Document Retrieval\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Attacks on biometric systems: a case study in fingerprints\" [2]: \"Discriminative dictionary learning with pairwise constraints\""
+  },
+  {
+    "id": "01860",
+    "input": "For an author who has written the paper with the title \"Bid optimization for broad match ad auctions Repeated budgeted second price ad auction Auctions with Budget Constraints Ad Exchange - Proposal for a New Trading Agent Competition Game. Selective call out and real time bidding\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Tracking Drifting Concepts By Minimizing Disagreements\" [2]: \"Approximating min-sum k-clustering in metric spaces\""
+  },
+  {
+    "id": "01293",
+    "input": "For an author who has written the paper with the title \"Automatic Design Space Exploration of Register Bypasses in Embedded Processors Automatic generation of operation tables for fast exploration of bypasses in embedded processors Bypass aware instruction scheduling for register file power reduction Efficient embedded code generation with multiple load-store instructions Fast Code Generation for Embedded Processors with Aliased Heterogeneous Registers\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Countering kernel rootkits with lightweight hook protection\" [2]: \"A Hexagon Tessellation Approach For The Transmission Energy Efficiency In Underwater Wireless Sensor Networks\""
+  },
+  {
+    "id": "012187",
+    "input": "For an author who has written the paper with the title \"Asymptotics of combinatorial structures with large smallest component Admissible Functions and Asymptotics for Labelled Structures by Number of Components Asymptotics for the Probability of Connectedness and the Distribution of Number of Components 0-1 laws for maps Multivariate Asymptotics for Products of Large Powers with Applications to Lagrange Inversion\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Logical definability of counting functions\" [2]: \"Fast Construction of Irreducible Polynomials over Finite Fields\""
+  },
+  {
+    "id": "011650",
+    "input": "For an author who has written the paper with the title \"Power-aware routing based on the energy drain rate for mobile ad hoc networks Routing mechanisms for mobile ad hoc networks based on the energy drain rate A Novel Energy Model for MANETs based on Graphs with Activation Windows OLSR vs DSR: A comparative analysis of proactive and reactive mechanisms from an energetic point of view in wireless ad hoc networks ANEJOS: a java based simulator for ad hoc networks\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"CarSafe app: alerting drowsy and distracted drivers using dual cameras on smartphones\" [2]: \"How to assign votes in a distributed system\""
+  },
+  {
+    "id": "011326",
+    "input": "For an author who has written the paper with the title \"Joint syntactic and semantic parsing of Chinese A clause-level hybrid approach to Chinese empty element recovery Learning the scope of negation via shallow semantic parsing Employing Constituent Dependency Information for Tree Kernel-Based Semantic Relation Extraction between Named Entities Unified dependency parsing of Chinese morphological and syntactic structures\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Using phrasal patterns to identify discourse relations\" [2]: \"Automatic collocation suggestion in academic writing\""
+  },
+  {
+    "id": "012267",
+    "input": "For an author who has written the paper with the title \"DRS: Dynamic Resource Scheduling for Real-Time Analytics over Fast Streams Design and Implementation of a Real-Time Interactive Analytics System for Large Spatio-Temporal Data. OceanRT: real-time analytics over large temporal data CADS: continuous authentication on data streams Continuous authentication on relational streams\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"An Introduction to Automated Trust Establishment\" [2]: \"Ripple joins for online aggregation\""
+  },
+  {
+    "id": "012332",
+    "input": "For an author who has written the paper with the title \"Interactive visual analysis of perfusion data. Interactive feature specification for focus+context visualization of complex simulation data A four-level focus+context approach to interactive visual analysis of temporal features in large scientific data Interactive Focus+Context Analysis of Large, Time-Dependent Flow Simulation Data Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Nondistorting flattening maps and the 3-D visualization of colon CT images.\" [2]: \"Multiresolution volume visualization with a texture-based octree\""
+  },
+  {
+    "id": "01359",
+    "input": "For an author who has written the paper with the title \"Bankruptcy prediction with least squares support vector machine classifiers. Bayesian kernel based classification for financial distress detection A combined MRI and MRSI based multiclass system for brain tumour recognition using LS-SVMs with class probabilities and feature selection. Benchmarking Least Squares Support Vector Machine Classifiers Optimal control by least squares support vector machines\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Electric load forecasting methods: Tools for decision making\" [2]: \"A knowledge-based integrated approach for discovering and repairing declare maps\""
+  },
+  {
+    "id": "01410",
+    "input": "For an author who has written the paper with the title \"A comparison of loop closing techniques in monocular SLAM Large-Scale SLAM Building Conditionally Independent Local Maps: Application to Monocular Vision A comparison of SLAM algorithms based on a graph of relations Fast relocalisation and loop closing in keyframe-based SLAM Evaluation of the registration of temporal series of contrast-enhanced perfusion magnetic resonance 3D images of the liver.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"OpenStreetMap: User-Generated Street Maps\" [2]: \"Using the logarithm of odds to define a vector space on probabilistic atlases\""
+  },
+  {
+    "id": "012439",
+    "input": "For an author who has written the paper with the title \"Mining Parallel Resources For Machine Translation From Comparable Corpora Quality estimation-guided supplementary data selection for domain adaptation of statistical machine translation. Domain adaptation of statistical machine translation with domain-focused web crawling Predicting sentence translation quality using extrinsic and language independent features Multi-modal indicators for estimating perceived cognitive load in post-editing of machine translation\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Multilingual resources for NLP in the lexical markup framework (LMF)\" [2]: \"Syntactic stylometry for deception detection\""
+  },
+  {
+    "id": "01442",
+    "input": "For an author who has written the paper with the title \"Parity-based inference control for multi-dimensional range sum queries Cardinality-based inference control in data cubes Cardinality-Based Inference Control in Sum-Only Data Cubes Securing OLAP data cubes against privacy breaches Preventing interval-based inference by random data perturbation\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Analyzing Intensive Intrusion Alerts Via Correlation\" [2]: \"Fingerprinting websites using remote traffic analysis\""
+  },
+  {
+    "id": "0124",
+    "input": "For an author who has written the paper with the title \"Characteristics of YouTube network traffic at a campus network - Measurements, models, and implications On the impact of PMU placement on observability and cross-validation Source Time Scale and Optimal Buffer/Bandwidth Trade-off for Regulated Traffic in an ATM Node Identifying 802.11 Traffic From Passive Measurements Using Iterative Bayesian Inference On per-session end-to-end delay distributions and the call admission problem for real-time applications with QOS requirements\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"An end-to-end adaptation protocol for layered video multicast using optimal rate allocation\" [2]: \"Random early detection gateways for congestion avoidance\""
+  },
+  {
+    "id": "011058",
+    "input": "For an author who has written the paper with the title \"Checking sequences for distributed test architectures Checking sequences for distributed test architectures Using communication coverage criteria and partial model generation to assist software integration testing Scenarios-based testing of systems with distributed ports Checking experiments for stream X-machines\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Search-based techniques applied to optimization of project planning for a massive maintenance project\" [2]: \"Generating minimal length test sequences for conformance testing of communication protocols\""
+  },
+  {
+    "id": "011576",
+    "input": "For an author who has written the paper with the title \"A pipelined architecture for image segmentation by adaptive progressive thresholding Segmenting endoscopic images using adaptive progressive thresholding: a hardware perspective An Adaptive Technique for the Extraction of Object Region and Boundary from Images with Complex Environment An automated feature-localisation algorithm for a feature-specific modular approach for face recognition Adaptive technique for image compression based on vector quantization using a self-organizing neural network\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Face Detection From Color Images Using a Fuzzy Pattern Matching Method\" [2]: \"Stereoscopic image quality compendium\""
+  },
+  {
+    "id": "012362",
+    "input": "For an author who has written the paper with the title \"Marginal Representation Learning With Graph Structure Self-Adaptation Learning robust and discriminative low-rank representations for face recognition with occlusion. Local structure-based image decomposition for feature extraction with applications to face recognition. Adaptive weighted nonnegative low-rank representation Walk-Steered Convolution for Graph Classification.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Protein secondary structure prediction using DWKF based on SVR-NSGAII\" [2]: \"Designing Category-Level Attributes for Discriminative Visual Recognition\""
+  },
+  {
+    "id": "011291",
+    "input": "For an author who has written the paper with the title \"Natural Language Multiprocessing: A Case Study Recognizing subjectivity: a case study in manual tagging Learning Subjective Language NLPReViz: an interactive tool for natural language processing on clinical text. Decomposable modeling in natural language processing\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Induction of decision trees\" [2]: \"Coinductive logic programming and its applications\""
+  },
+  {
+    "id": "01899",
+    "input": "For an author who has written the paper with the title \"Guest Editors' Introduction: What Kinds of Nails Need a Domain-Specific Hammer? Guest Editors' Introduction: How Is Open Source Affecting Software Development? Guest Editors' Introduction: Advanced Heuristics in Transportation and Logistics Abstraction and Variation Panoptis: intrusion detection using a domain-specific language\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Model transformation language MOLA\" [2]: \"Model-based design: a report from the trenches of the DARPA Urban Challenge\""
+  },
+  {
+    "id": "01367",
+    "input": "For an author who has written the paper with the title \"Hard Satisfiable Clause Sets for Benchmarking Equivalence Reasoning Techniques Fast Witness Extraction Using a Decision Oracle. Barriers and local minima in energy landscapes of stochastic local search Covering and packing in linear space An adaptive prefix-assignment technique for symmetry reduction.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Alembic: An Efficient Algorithm For Cnf Preprocessing\" [2]: \"Maximum inner-product search using cone trees\""
+  },
+  {
+    "id": "012102",
+    "input": "For an author who has written the paper with the title \"Continuous Time Dynamic Topic Models Dynamic topic models Dynamic Poisson Factorization Decomposing spatiotemporal brain patterns into topographic latent sources. The Inverse Regression Topic Model.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A characterization of the dirichlet distribution with application to learning Bayesian networks\" [2]: \"VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback.\""
+  },
+  {
+    "id": "01115",
+    "input": "For an author who has written the paper with the title \"Hyperspectral and LiDAR Data Fusion: Outcome of the 2013 GRSS Data Fusion Contest Decision Fusion for the Classification of Hyperspectral Data: Outcome of the 2008 GRS-S Data Fusion Contest Ensemble Multiple Kernel Active Learning For Classification of Multisource Remote Sensing Data A Framework for Land Cover Classification Using Discrete Return LiDAR Data: Adopting Pseudo-Waveform and Hierarchical Segmentation Compressive data fusion for multi-sensor image analysis.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Structure-constrained low-rank representation.\" [2]: \"Sparsity preserving projections with applications to face recognition\""
+  },
+  {
+    "id": "01572",
+    "input": "For an author who has written the paper with the title \"Image Deblurring And Denoising Using Color Priors Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach Learning to See Through Turbulent Water Representations for Recognition Under Variable Illumination Specularity removal in images and videos: a PDE approach\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Automatic Camera Calibration from a Single Manhattan Image\" [2]: \"Approximation Algorithms for Directed Steiner Problems\""
+  },
+  {
+    "id": "011146",
+    "input": "For an author who has written the paper with the title \"Clustering Text Data Streams Clustering Text Data Streams Classification spanning correlated data streams Mining top-K frequent itemsets from data streams Achieving k-anonymity by clustering in attribute hierarchical structures\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Vaccine-Enhanced Artificial Immune System For Multimodal Function Optimization\" [2]: \"Finding All Maximal Cliques in Dynamic Graphs\""
+  },
+  {
+    "id": "012080",
+    "input": "For an author who has written the paper with the title \"On performance analysis of optical flow algorithms Hierarchical properties of multi-resolution optical flow computation Semantic Segmentation of Low Frame-Rate Image Sequence Using Statistical Properties of Optical Flow for Remote Exploration. Variational analysis of spherical images Independent component analysis of optical flow for robot navigation\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Two algorithms for motion estimation from alternate exposure images\" [2]: \"Meaningful Matches in Stereovision\""
+  },
+  {
+    "id": "011920",
+    "input": "For an author who has written the paper with the title \"Software Security In Virtualized Infrastructures - The Smart Meter Example Intelligent Systems and Formal Methods in Software Engineering Using Dependence Graphs to Assist Verification and Testing of Information-Flow Properties. Generating regression unit tests using a combination of verification and capture & replay Lessons Learned From Microkernel Verification* Specification Is The New Bottleneck\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Automated Boundary Testing from Z and B\" [2]: \"Finding Collisions on a Public Road, or Do Secure Hash Functions Need Secret Coins?\""
+  },
+  {
+    "id": "011203",
+    "input": "For an author who has written the paper with the title \"A Semantically Enabled Service Oriented Architecture Message-based web service composition, integrity constraints, and planning under uncertainty: a new connection Beyond soundness: on the verification of semantic business process models Integrating Discovery and Automated Composition: from Semantic Requirements to Executable Code Functional description of geoprocessing services as conjunctive datalog queries\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Temporal Semantics of Meta-Level Architectures for Dynamic Control of Reasoning\" [2]: \"Planning in polynomial time: the SAS-PUBS class\""
+  },
+  {
+    "id": "011282",
+    "input": "For an author who has written the paper with the title \"Real-time dynamics for geometric textures in shell Parallel-optimizing SPH fluid simulation for realistic VR environments Real-time haptic sculpting in virtual volume space Parallel-split shadow maps for large-scale virtual environments Multi-resolution parametric synthesis of manipulative dynamic textures\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Light Scattering from Filaments\" [2]: \"A Novel Interest-Point-Matching Algorithm for High-Resolution Satellite Images\""
+  },
+  {
+    "id": "011074",
+    "input": "For an author who has written the paper with the title \"Security Games With Protection Externalities Computing Solutions in Infinite-Horizon Discounted Adversarial Patrolling Games. Multi-objective optimization for security games An extended study on multi-objective security games Equilibrium Refinement In Security Games With Arbitrary Scheduling Constraints\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Privacy-preserving anonymization of set-valued data\" [2]: \"A Reinforcement Learning Method for Maximizing Undiscounted Rewards\""
+  },
+  {
+    "id": "01583",
+    "input": "For an author who has written the paper with the title \"Invited - Things, trouble, trust: on building trust in IoT systems. P3: Privacy Preserving Positioning for Smart Automotive Systems. Challenges and opportunities in broadband and wireless communication designs Active control and digital rights management of integrated circuit IP cores N-variant IC design: methodology and applications\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"PRIMEX: rapid identification of oligonucleotide matches in whole genomes.\" [2]: \"Modelling and compensating for clock skew variability in FPGAs\""
+  },
+  {
+    "id": "01507",
+    "input": "For an author who has written the paper with the title \"Intelligent Techniques for the Extraction and Integration of Heterogeneous Information Semantic integration of heterogeneous information sources Virtual integration of existing web databases for the genotypic selection of cereal cultivars Momis: Exploiting Agents To Support Information Integration Creating and Querying an Integrated Ontology for Molecular and Phenotypic Cereals Data\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"STBenchmark: towards a benchmark for mapping systems\" [2]: \"State of the art of graph-based data mining\""
+  },
+  {
+    "id": "011977",
+    "input": "For an author who has written the paper with the title \"Fusion Moves for Markov Random Field Optimization Discrete-Continuous Optimization for Optical Flow Estimation Efficient belief propagation with learned higher-order markov random fields Fields of Experts: A Framework for Learning Image Priors Shrinkage Fields for Effective Image Restoration\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Efficient temporal consistency for streaming video scene analysis\" [2]: \"Face alignment via boosted ranking model\""
+  },
+  {
+    "id": "01447",
+    "input": "For an author who has written the paper with the title \"Detection Of Human Rights Violations In Images: Can Convolutional Neural Networks Help? Exploring object-centric and scene-centric CNN features and their complementarity for human rights violations recognition in images. An Implicit Shape Model for Combined Object Categorization and Segmentation A Generic Framework for Assessing the Performance Bounds of Image Feature Detectors. Learning a Hierarchical Compositional Shape Vocabulary for Multi-class Object Representation.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A Probabilistic Approach to Integrating Multiple Cues in Visual Tracking\" [2]: \"Fast 3d Scanning With Automatic Motion Compensation\""
+  },
+  {
+    "id": "011101",
+    "input": "For an author who has written the paper with the title \"Bootstrapping morphological analyzers by combining human elicitation and machine learning Practical Bootstrapping of Morphological Analyzers. Cognitive Simulation in Virtual Patients Striking a Balance: Human and Computer Contributions to Learning through Semantic Analysis Embedding Knowledge Elicitation and MT Systems within a Single Architecture.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"MOLE: a tenacious knowledge-acquisition tool\" [2]: \"Initial Performance of the DADO2 Prototype\""
+  },
+  {
+    "id": "01619",
+    "input": "For an author who has written the paper with the title \"Viz: a visual analysis suite for explaining local search behavior Designing and tuning SLS through animation and graphics: an extended walk-through An integrated white+black box approach for designing and tuning stochastic local search Open Constraint Programming Solving Hierarchical Constraints over Finite Domains with Local Search\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Incorporating variance in impact-based search\" [2]: \"Using Decomposition Techniques and Constraint Programming for Solving the Two-Dimensional Bin-Packing Problem\""
+  },
+  {
+    "id": "011075",
+    "input": "For an author who has written the paper with the title \"Engineering the Decentralized Coordination of UAVs with Limited Communication Range. The communicative multiagent team decision problem: analyzing teamwork theories and models On communication in solving distributed constraint satisfaction problems Distributed on-Line Multi-Agent Optimization under Uncertainty: Balancing Exploration and Exploitation. On Communication in Distributed Constraint Satisfaction\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Social instruments for robust convention emergence\" [2]: \"Region-based incremental pruning for POMDPs\""
+  },
+  {
+    "id": "012395",
+    "input": "For an author who has written the paper with the title \"A soft body as a reservoir: case studies in a dynamic model of octopus-inspired soft robotic arm. Measuring information transfer in a soft robotic arm. Information theoretic analysis on a soft robotic arm inspired by the octopus Computing with a muscular-hydrostat system Exploiting short-term memory in soft body dynamics as a computational resource.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"SUSTAIN: a model of human category learning\" [2]: \"Object tracking using SIFT features and mean shift\""
+  },
+  {
+    "id": "011279",
+    "input": "For an author who has written the paper with the title \"Addressing Publishing Issues with Hypermedia Distributed on the Web A framework for generating adaptable hypermedia documents Generic Hypermedia Structure and Presentation Specification Anticipation SMIL 2.0: the developing cooperative infrastructure for multimedia on the Web Smart Style on the Semantic Web.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Automating the generation of coordinated multimedia explanations\" [2]: \"Rules-By-Example - A Novel Approach to Semantic Indexing and Querying of Images\""
+  },
+  {
+    "id": "011093",
+    "input": "For an author who has written the paper with the title \"Adaptive Peer Selection Dynamic Composition of Information Retrieval Techniques Optimizing information exchange in cooperative multi-agent systems Control in a 3D Reconstruction System using Selective Perception Feature Selection Using Regularization in Approximate Linear Programs for Markov Decision Processes\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Scalpel: A Frugal, High Performance File Carver\" [2]: \"A survey of socially interactive robots\""
+  },
+  {
+    "id": "01335",
+    "input": "For an author who has written the paper with the title \"Managing Clouds, Smart Networks and Services: A Report on APNOMS 2011 Challenges for Next Generation Network Operations and Service Management: a Report on APNOMS 2008 A Report on the 3rd IFIP/IEEE International Workshop on Management of the Future Internet (ManFI 2011) Is the Management of the Future Internet Ignored? A Report on ManFI 2009 ICBMS SM: A Smart Mediator for mashup service development.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"MACA-P: a MAC for concurrent transmissions in multi-hop wireless networks\" [2]: \"Specification of the Controlled-Load Network Element Service\""
+  },
+  {
+    "id": "011299",
+    "input": "For an author who has written the paper with the title \"Measuring the quality of web content using factual information Predicting quality flaws in user-generated content: the case of wikipedia Paraphrase acquisition via crowdsourcing and machine learning Detection of text quality flaws as a one-class classification problem A breakdown of quality flaws in Wikipedia\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"The relationship between Precision-Recall and ROC curves\" [2]: \"Protos 7.0: simulation made accessible\""
+  },
+  {
+    "id": "012170",
+    "input": "For an author who has written the paper with the title \"7th International Workshop on Modeling in Software Engineering (MiSE 2015). 1st international workshop on combining modelling and search-based software engineering (CMSBSE 2013) Iterative criteria-based approach to engineering the requirements of software development methodologies Unified Modeling Language for Knowledge Modelling An Integrated Framework for System/Software Requirements Development Aligning with Business Motivations\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"An organisation ontology for enterprise modeling: Preliminary concepts for linking structure and behaviour\" [2]: \"The UCD Perspective: Before and After Agile\""
+  },
+  {
+    "id": "012375",
+    "input": "For an author who has written the paper with the title \"Scipvm: Parallel Distributed Computing On Sci Workstation Clusters Multiparadigm Distributed Computing With Tpvm Pvanim: A Tool For Visualization In Network Computing Environments Icet: Distributed Computing And Java Heterogeneous Parallel Computing Across Multidomain Clusters\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Information and Communication Systems for Mobile Emergency Response\" [2]: \"Kerberos: An Authentication Service for Open Network Systems\""
+  },
+  {
+    "id": "012307",
+    "input": "For an author who has written the paper with the title \"Multi-Input Functional Encryption. Multi-Client Verifiable Computation with Stronger Security Guarantees. Signatures of correct computation Context-centric security Authenticated data structures, generically\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Detecting and correcting malicious data in VANETs\" [2]: \"A Practical Universal Circuit Construction and Secure Evaluation of Private Functions\""
+  },
+  {
+    "id": "0171",
+    "input": "For an author who has written the paper with the title \"Optical flow-based real-time object tracking using non-prior training active feature model Optical flow-based real-time object tracking using non-prior training active feature model 3D Target Scale Estimation and Target Feature Separation for\u00a0Size Preserving Tracking in PTZ Video Camera handoff with adaptive resource management for multi-camera multi-object tracking A Moving Object Tracked by A Mobile Robot with Real-Time Obstacles Avoidance Capacity\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Fast Image Restoration for Reducing Block Artifacts Based on Adaptive Constrained Optimization\" [2]: \"Detection and Tracking of Moving Objects from Overlapping EO and IR Sensors\""
+  },
+  {
+    "id": "01907",
+    "input": "For an author who has written the paper with the title \"Fuzzy-rough approaches for mammographic risk analysis Fuzzy similarity-based nearest-neighbour classification as alternatives to their fuzzy-rough parallels Risk assessment of serious crime with fuzzy random theory Extending Data Reliability Measure to a Filter Approach for Soft Subspace Clustering Disclosing false identity through hybrid link analysis\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A guide to the literature on learning probabilistic networks from data\" [2]: \"Computer aided detection of microcalcifications in digital mammograms adopting a wavelet decomposition\""
+  },
+  {
+    "id": "01296",
+    "input": "For an author who has written the paper with the title \"Formal testing from timed finite state machines Implementation relations for stochastic finite state machines Extending EFSMs to Specify and Test Timed Systems with Action Durations and Time-Outs Towards Testing Stochastic Timed Systems Testing finite state machines presenting stochastic time and timeouts\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Agents, self-interest and electronic markets\" [2]: \"Communicating X-machines\""
+  },
+  {
+    "id": "011013",
+    "input": "For an author who has written the paper with the title \"ICPR2018 Contest on Object Detection in Aerial Images (ODAI-18) Information Content of Very High Resolution SAR Images: Study of Feature Extraction and Imaging Parameters Mining large satellite image repositories using semi-supervised methods Interactive learning and probabilistic retrieval in remote sensing image archives Object and topology extraction from remote sensing images\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Multiresolution Gauss-Markov random field models for texture segmentation\" [2]: \"Nonparametric Scene Parsing via Label Transfer.\""
+  },
+  {
+    "id": "01577",
+    "input": "For an author who has written the paper with the title \"Completely Asynchronous Optimistic Recovery with Minimal Rollbacks Attribute-Based Publishing with Hidden Credentials and Hidden Policies Building the IBM 4758 Secure Coprocessor Distributing security-mediated PKI Small, stupid, and scalable: secure computing with faerieplay\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Implementing cryptographic pairings on smartcards\" [2]: \"Multicast routing in internetworks and extended LANs.\""
+  },
+  {
+    "id": "011827",
+    "input": "For an author who has written the paper with the title \"A graph-based approach for multiscale shape analysis Effective Image Retrieval by Shape Saliences A spectral framework for sperm shape characterization A Biologically-Motivated Approach to Image Representation and Its Application to Neuromorphology Multiscale skeletons by image foresting transform and its application to neuromorphometry\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Duality between the Watershed by Image Foresting Transform and the Fuzzy Connectedness Segmentation Approaches\" [2]: \"Authorship recognition via fluctuation analysis of network topology and word intermittency.\""
+  },
+  {
+    "id": "011212",
+    "input": "For an author who has written the paper with the title \"Unsupervised Cross-Dataset Transfer Learning For Person Re-Identification Joint Semantic and Latent Attribute Modelling for Cross-Class Transfer Learning. Sparse coding for multitask and transfer learning An Algorithm for Transfer Learning in a Heterogeneous Environment Multi-Task Feature Learning\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Minimizing Effective Resistance of a Graph.\" [2]: \"Unsupervised Learning of Finite Mixture Models\""
+  },
+  {
+    "id": "012088",
+    "input": "For an author who has written the paper with the title \"Efficacy of the SU(3) scheme for ab initio large-scale calculations beyond the lightest nuclei. On reducing i/o overheads in large-scale invariant subspace projections Massively multithreaded maxflow for image segmentation on the Cray XMT-2 Nucleus Decompositions for Identifying Hierarchy of Dense Subgraphs. On Distributed Graph Coloring with Iterative Recoloring.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"CPU MISER: A Performance-Directed, Run-Time System for Power-Aware Clusters\" [2]: \"Global arrays: a portable \"shared-memory\" programming model for distributed memory computers\""
+  },
+  {
+    "id": "01236",
+    "input": "For an author who has written the paper with the title \"Attention And Localization Based On A Deep Convolutional Recurrent Model For Weakly Supervised Audio Tagging Large-scale weakly supervised audio classification using gated convolutional neural network. Sound Event Detection and Time-Frequency Segmentation from Weakly Labelled Data. Joint detection and classification convolutional neural network on weakly labelled bird audio detection. Audio Set classification with attention model: A probabilistic perspective.\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"FAST BAYESIAN NMF ALGORITHMS ENFORCING HARMONICITY AND TEMPORAL CONTINUITY IN POLYPHONIC MUSIC TRANSCRIPTION\" [2]: \"Impactless Sagittal Gait Of A Biped Robot During The Single Support Phase\""
+  },
+  {
+    "id": "01106",
+    "input": "For an author who has written the paper with the title \"Integrating User Reviews and Ratings for Enhanced Personalized Searching. Integrating Tags and Ratings Into User Profiling for Personalized Search in Collaborative Tagging Systems A three-tier view-based methodology for adapting human-agent collaboration systems A three-tier view-based methodology for M-services adaptation Reciprocal Social Strategy In Social Repeated Games And Emergence Of Social Norms\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"A clustering particle swarm optimizer for dynamic optimization\" [2]: \"JADE: adaptive differential evolution with optional external archive\""
+  },
+  {
+    "id": "011223",
+    "input": "For an author who has written the paper with the title \"Guest Editorial for Special Section on IEEE Haptic Audio Visual Environments and Games 2010. Special Section on IEEE HAVE 2009 Prediction-based decorators for distributed collaborative haptic virtual environments A benchmarked automated progress measurement system for haptic motor rehabilitation Embedding watermark images in transcoded audio streams for content protection and Quality of Service monitoring\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"The TactaPack: A Wireless Sensor/Actuator Package for Physical Therapy Applications\" [2]: \"A low complexity video watermarking in H.264 compressed domain\""
+  },
+  {
+    "id": "01960",
+    "input": "For an author who has written the paper with the title \"Web-Scale Image Clustering Revisited Products of Euclidean metrics and applications to proximity questions among curves. The predicates for the Voronoi diagram of ellipses Univariate polynomial real root isolation: continued fractions revisited Algebraic study of the Apollonius circle of three ellipses\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Multiresolution histograms and their use for recognition.\" [2]: \"Conditions for exact resultants using the Dixon formulation\""
+  },
+  {
+    "id": "01457",
+    "input": "For an author who has written the paper with the title \"Authenticating Network-Attached Storage Security constructs for regulatory-compliant storage Remote data checking for network coding-based distributed storage systems Efficient distributed backup with delta compression Safe Caching in a Distributed File System for Network Attached Storage\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"The power crust\" [2]: \"An analysis of compare-by-hash\""
+  },
+  {
+    "id": "01365",
+    "input": "For an author who has written the paper with the title \"Cooperative Control of a 3D Dual-Flexible-Arm Robot System-Wide Cooperative Optimization for NAND Flash-Based Mobile Systems An adaptive multiplexing algorithm of delay-sensitive multiple VBR-coded bit streams A distortion control scheme for allocating constant distortion in FD-CD video transcoder Maximizing availability of content in disruptive environments by cross-layer optimization\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Ensuring security and availability through model-based cross-layer adaptation\" [2]: \"Images interpolation for image-based control under large displacement\""
+  },
+  {
+    "id": "01301",
+    "input": "For an author who has written the paper with the title \"EnaCloud: An Energy-Saving Application Live Placement Approach for Cloud Computing Environments CyberGuarder: A virtualization security assurance architecture for green cloud computing Vmon: An Efficient Out-Of-Vm Process Monitor For Virtual Machines Towards an efficient snapshot approach for virtual machines in clouds. VMScatter: migrate virtual machines to many hosts\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Towards detection of human motion\" [2]: \"Point-based trust: define how much privacy is worth\""
+  },
+  {
+    "id": "01644",
+    "input": "For an author who has written the paper with the title \"ARMAR-an anthropomorphic arm for humanoid service robot Design of the TUAT/Karlsruhe humanoid hand Development of a five-finger dexterous hand without feedback control: The TUAT/Karlsruhe humanoid hand Integrated Grasp Planning and Visual Object Localization For a Humanoid Robot with Five-Fingered Hands Synthesizing object receiving motions of humanoid robots with human motion database\", which reference is related? Just answer with [1] or [2] without explanation. [1]: \"Shared Features for Scalable Appearance-Based Object Recognition\" [2]: \"Behaviour-based control: examples from navigation, learning, and group behaviour\""
+  }
+]

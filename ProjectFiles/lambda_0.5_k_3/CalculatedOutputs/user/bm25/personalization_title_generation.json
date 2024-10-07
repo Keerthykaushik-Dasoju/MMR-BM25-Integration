@@ -1,0 +1,405 @@
+{
+  "task": "LaMP_5",
+  "golds": [
+    {
+      "id": "411989",
+      "output": "Optimizing Energy Consumption in Wearable Monitoring Devices for Ubiquitous Health Care: A Comprehensive Approach"
+    },
+    {
+      "id": "412248",
+      "output": "\"Haptic Interaction: Promises and Challenges in Mainstream Information and Communication Technology\""
+    },
+    {
+      "id": "412348",
+      "output": "\"Space-Invariant Description and Classification of 3D Structures Using Invariant Features and Group Integration\""
+    },
+    {
+      "id": "411826",
+      "output": "\"A Low Complexity Physics-Oriented Approach for Cooperative Goal-Satisfaction in Large-Scale Environments: Modeling, Algorithms, and Implementation\""
+    },
+    {
+      "id": "41770",
+      "output": "\"Bayesian Regularization and Model Structure Recovery in Learning from Data\""
+    },
+    {
+      "id": "41233",
+      "output": "Integrating Security Models and Policies in Model-Driven Development for Building High Assurance Software Systems"
+    },
+    {
+      "id": "411736",
+      "output": "\"The Propositional Mu-Calculus: Incorporating Fixpoint Operators and Subsuming Dynamic Logic, Infinite Looping, and Game Logic\""
+    },
+    {
+      "id": "41596",
+      "output": "\"Empowering Nonprofit Community Organizations: Building Sustainable IT Management Practices through Methodological Techniques and Informal Learning\""
+    },
+    {
+      "id": "411149",
+      "output": "Efficient Landmark Detection and Recognition in 3D Facial Scans using Fractal Active Shape Models"
+    },
+    {
+      "id": "411724",
+      "output": "Optimizing Ad Hoc Queries on Mining Models in Modern Relational Database Systems"
+    },
+    {
+      "id": "411112",
+      "output": "Title: Robust Extended Fractional Kalman Filter for Accurate State Estimation in Nonlinear Fractional Systems with Missing Measurements"
+    },
+    {
+      "id": "411475",
+      "output": "\"Graph-Theoretic Formulation and Near-Optimal Algorithms for Incomplete Directed Perfect Phylogeny\""
+    },
+    {
+      "id": "412163",
+      "output": "\"Development and Validation of a Disaster Management Metamodel: Unifying and Facilitating Access to Expertise\""
+    },
+    {
+      "id": "41885",
+      "output": "\"A General Framework for Precise Solution Counting in Constraint Satisfaction Problems\""
+    },
+    {
+      "id": "411501",
+      "output": "Efficient Indexing and Querying of Moving Objects in Spatiotemporal Environments"
+    },
+    {
+      "id": "41568",
+      "output": "\"Computational Completeness and Universality of Hybrid Network of Evolutionary Processors (HNEPs)\""
+    },
+    {
+      "id": "41566",
+      "output": "Merging Qualitative Constraint Networks: A Generic Approach for Spatial and Temporal Information"
+    },
+    {
+      "id": "41828",
+      "output": "Efficient Querying and Evasion of Convex-Inducing Classifiers: A Near-Optimal Approach"
+    },
+    {
+      "id": "411303",
+      "output": "1. \"Contextual Characteristics and Challenges of Media Architecture: Towards Long-Term Sustainability\"\n2. \"Examining Civic Participation on FixMyStreet: Implications for Inclusive Platforms\"\n3. \"Exploring the Public Potential of Citizen-Controlled Public Displays: Impact on Social Cohesion\"\n4. \"Street Infographics: Enhancing Urban Environments through Contextual Data Visualization\""
+    },
+    {
+      "id": "41263",
+      "output": "\"A Robust Vision System for Single Person Tracking in Smart Room Environments: Combining Face Detection and 3D Head Tracking\""
+    },
+    {
+      "id": "41801",
+      "output": "\"Compact Representations and Equilibrium Computation in Local-Effect Games and Resource Graph Games\""
+    },
+    {
+      "id": "411688",
+      "output": "\"Efficient Porting and Performance Analysis of Quantum Mechanical Reactive Scattering and ANSYS\u00ae Code on the EGEE Grid\""
+    },
+    {
+      "id": "41186",
+      "output": "\"Model-Driven Development for Component-Based DRE Systems: A Case Study of CoSMIC and PICML\""
+    },
+    {
+      "id": "411376",
+      "output": "1. \"A Voting-Based Approach for Entity Search: Unparalleled Gains in Recall\"\n2. \"Probabilistic Framework for Web Search Result Diversification: Evaluating Query Aspects\"\n3. \"Robust Tweet Enrichment for Reputation Dimension Classification: Outperforming Baselines\"\n4. \"Real-Time Filtering in Twitter: Tackling Sparsity and Drift\""
+    },
+    {
+      "id": "41811",
+      "output": "\"Data-Driven Annotation Schema for Italian Treebank Development: Ensuring Accuracy and Consistency in Predicate-Argument Structure Representation\""
+    },
+    {
+      "id": "412309",
+      "output": "Message Complexity of Broadcast and Spanning Tree Construction in Point-to-Point Communication Networks"
+    },
+    {
+      "id": "411541",
+      "output": "\"ACE: An Extremely Fast Algorithm for Drawing Very Large Graphs and Analyzing Hierarchy Structure\""
+    },
+    {
+      "id": "41311",
+      "output": "A Data-Driven Framework for Novel Object Detection and Segmentation: Object Pop-Out and View Synthesis"
+    },
+    {
+      "id": "412295",
+      "output": "\"jcc: Integrating Timed Default Concurrent Constraint Programming into JAVA for Reactive Systems and Constraint-Based Analysis\""
+    },
+    {
+      "id": "411587",
+      "output": "\"OpenTracker: A Modular Software Architecture for Tracking Input Devices and Processing Tracking Data in Virtual and Augmented Reality Applications\""
+    },
+    {
+      "id": "411592",
+      "output": "\"Automatic Generation of Diagnostic Location Information for Error Detection in the IN-METAFrame Service Definition Environment\""
+    },
+    {
+      "id": "41406",
+      "output": "\"New Techniques for Slant and Slope Removal in Cursive Handwritten Words: Improving Recognition Rate and Avoiding Parameter Tuning\""
+    },
+    {
+      "id": "411627",
+      "output": "\"Enhancing Web Revisitation: A Dynamic Browser Toolbar with Contextual Recommendations\""
+    },
+    {
+      "id": "412099",
+      "output": "\"HyperDEBU: A Visual Debugger for Improving Performance of Parallel Logic Programs\""
+    },
+    {
+      "id": "41964",
+      "output": "Title: \"Endorsed E-Cash: Scalable and Fair Exchanges for Digital Goods and Services\""
+    },
+    {
+      "id": "41879",
+      "output": "\"Exploring the Dynamics of Self-Management in Wikipedia: A Case Study of the Dutch Wikipedia\"\n\"Analyzing the Game Spectrum of Dao: A Benchmark for Search Enhancements\"\n\"Revisiting the Logical Distinction between Rules and Principles: An Integrated View\"\n\"Taking Uncertainty into Account: Improving Performance in a Situated Gaze-Control Model for Classification\""
+    },
+    {
+      "id": "41287",
+      "output": "Title: \"Enhancing Energy Efficiency and Network Stability in Heterogeneous Sensor Networks: A Study on Clustering Protocols and Low Latency Data Delivery\""
+    },
+    {
+      "id": "41553",
+      "output": "\"Generalized Thin-Plate Splines for Manifold-Valued Data Interpolation and Approximation: Applications in Computer Graphics\""
+    },
+    {
+      "id": "41452",
+      "output": "\"Learning Smooth Latent Models for Dynamic Textured Sequences: A Hierarchical Approach\""
+    },
+    {
+      "id": "411831",
+      "output": "Title: Exploring the Relationship Between Services and Web-Services: A Pragmatic Approach to Service Discovery and Composition"
+    },
+    {
+      "id": "412010",
+      "output": "Exploiting Spectral Correlation for Compression of Hyperspectral Images: A Distributed Source Coding Approach"
+    },
+    {
+      "id": "411995",
+      "output": "Gender Bias in News Media: A Study on Representation and Popularity"
+    },
+    {
+      "id": "41890",
+      "output": "Automated Analysis and Modeling of Deformable Objects: Application to Human Imaging"
+    },
+    {
+      "id": "411616",
+      "output": "Title: \"REMIX: Interactive Outlier Detection System with Automated Algorithm Selection and Execution\""
+    },
+    {
+      "id": "41644",
+      "output": "\"Grasp Representation and Planning for Humanoid Robots: Exploiting Finger Position Information and Symmetry Properties\""
+    },
+    {
+      "id": "411385",
+      "output": "Advancements in Stationary Subspace Analysis for Non-Stationary Data"
+    },
+    {
+      "id": "411409",
+      "output": "Optimizing Video Quality and Resource Usage in Large-Scale Distributed Video Surveillance Systems"
+    },
+    {
+      "id": "41443",
+      "output": "Computational Approaches for Haplotyping and Alternative Splicing Analysis: Formulations, Algorithms, and Experimental Analysis"
+    },
+    {
+      "id": "411283",
+      "output": "Title: Epistemological Analysis of Discovery and Invention in Science: Examining the Non-Adequacy Claim and its Impact on Artificial Intelligence, Swarm Robotics, and Algorithm Configuration"
+    },
+    {
+      "id": "411337",
+      "output": "\"Exploring Round-Efficient Three-Party PAKE Protocols and Economic-Based Mechanisms in Autonomous Ad Hoc Networks\""
+    },
+    {
+      "id": "411156",
+      "output": "\"Retrieving Human Locomotion Patterns: A Sketch-Based Approach for Spatial Queries\""
+    },
+    {
+      "id": "41329",
+      "output": "Advancing Situated Multi-Modal Interaction for Robot Learning and Instruction"
+    },
+    {
+      "id": "412098",
+      "output": "Title: Exploring User Interaction with Interactive Devices: Markov Modeling, Design Considerations, and Future Implications"
+    },
+    {
+      "id": "41621",
+      "output": "\"Exploring Reversible Computing: From Universal Computers to Reversible Cellular Automata\""
+    },
+    {
+      "id": "411848",
+      "output": "A Novel Algorithm for Human Detection in Still Images Using Covariance Matrices"
+    },
+    {
+      "id": "41811",
+      "output": "\"Data-Driven Annotation Schema for Italian Treebank Development: Ensuring Accuracy and Consistency in Predicate-Argument Structure Representation\""
+    },
+    {
+      "id": "411166",
+      "output": "Lower Bounds on Randomized Multiparty Communication Complexity: Introducing the Symmetrization Technique and Applications to Various Problems"
+    },
+    {
+      "id": "411498",
+      "output": "\"Transition Function Based Characterization of Actions and Multiagent Planning with Cooperative Actions: A Monotone and Continuous Fixpoint Operator Approach\""
+    },
+    {
+      "id": "411662",
+      "output": "The Influence of Substitutive Competition on Game-Based Learning: A Study on Chinese Idioms Mastery in the My-Pet v3 System\n\nThe Effect of Competition on Students' Use of Game-Based Deliberate Practice: Results from a Qualitative and Quantitative Experiment\n\nBetty's Brain: Combining Learning by Teaching with Self-Regulated Learning Feedback to Promote Deep Learning and Understanding in Science Domains\n\nPromoting Self-Regulated Learning in Computer-Based Learning Environments: Examining Middle School Students' Feature Use and Strategy Development in Betty's Brain\n\nUnderstanding Shallow Strategy Development in Teachable-Agent Systems: Exploring Student-Centered and Design-Centered Hypotheses"
+    },
+    {
+      "id": "411022",
+      "output": "\"Genetic Algorithm for Generating and Assessing Assembly Plans: A Context Adaptation Approach for Fuzzy Rule-Based Systems: A Declarative and Device-Independent Methodology for Developing Event-Driven Mobile Applications: Pareto-Based Multi-Objective Evolutionary Approach for Generating Mamdani Fuzzy Systems\""
+    },
+    {
+      "id": "41864",
+      "output": "Learning Bilingual Translation Lexicons from Monolingual Corpora: A Generative Model Approach\n\nPolymom: An Unifying Framework for Estimation in Mixture Models\n\nAutomatically Deriving Natural Language Inference Datasets from Question Answering Resources\n\nBridging the Gap: Naturalizing a Core Programming Language for Convenient Natural Language Interfaces\n\nTeaching a Common System: Simultaneous Language Learning and Complex Structure Building in a Voxel World"
+    },
+    {
+      "id": "412232",
+      "output": "Improving Parameter Sensitivity in Recurrent Neural Networks: A Novel Architecture and Analysis"
+    },
+    {
+      "id": "41465",
+      "output": "\"Maximizing Test Pattern Generation and Timing Optimization for Small-Delay Fault Detection in Integrated Circuits\""
+    },
+    {
+      "id": "411663",
+      "output": "\"Optimal Clustering Methods for Container Loading with Non-Orthogonal Objects: A Comparative Study\""
+    },
+    {
+      "id": "411594",
+      "output": "The Impact of Network Asymmetry on TCP Performance: Analysis and Techniques for Improvement"
+    },
+    {
+      "id": "411805",
+      "output": "\"Analyzing Parameters and Performance of Evolutionary Reaction Systems: Towards Default Values and Comparative Evaluation with Established Machine Learning Methods\""
+    },
+    {
+      "id": "412035",
+      "output": "Optimal Triangulation in Three Views: A Novel Iterative Approach with Improved Precision and Speed"
+    },
+    {
+      "id": "412386",
+      "output": "\"Orthogonal Forward Selection and Bayesian Hyperparameter Fitting for Radial Basis Function Network Classifiers\""
+    },
+    {
+      "id": "41582",
+      "output": "\"Low-Cost Approaches to Graceful Degradation-Based Permanent Fault Tolerance of Application Specific Programmable Processors\""
+    },
+    {
+      "id": "411125",
+      "output": "Balancing Privacy and Security Concerns in Biometric Systems: Introducing the Concept of id-Privacy and Enhancing Accuracy and Security"
+    },
+    {
+      "id": "41238",
+      "output": "\"Analyzing the Impact of Adjusting Cost Drivers in COCOMO II Model for ERP Project Success: A Case Study in the Financial Services Sector\""
+    },
+    {
+      "id": "411012",
+      "output": "\"Computational Problems and Complexity Analysis in Answer-Set Optimization and Preference Formalisms\""
+    },
+    {
+      "id": "4149",
+      "output": "\"Constructing Linear Codes with Specific Classes of 2-Designs: Applications in Secret Sharing and Authentication Schemes\""
+    },
+    {
+      "id": "41637",
+      "output": "\"Finding Glass Objects in Images: Combining Visual Cues and Classifiers\"\n"
+    },
+    {
+      "id": "412387",
+      "output": "\"Non-Monotonic Inference Operators for Defeasible Argumentation and Possibilistic Defeasible Logic Programming\""
+    },
+    {
+      "id": "412013",
+      "output": "\"Token Sliding and Jumping Problems: Complexity and Algorithms for Graphs and Trees\""
+    },
+    {
+      "id": "411389",
+      "output": "\"Group Connectivity and Reduction of 2-Edge-Connected Graphs\""
+    },
+    {
+      "id": "412055",
+      "output": "\"Polynomial-Time Solvability and Complexity Dichotomy in Cyclic Level Planarity and Simultaneous Level Planarity\""
+    },
+    {
+      "id": "411910",
+      "output": "\"Morphological Shared-Weight Neural Networks for Target Detection and Recognition: Experimental Results with Laser Radar and Face Recognition\""
+    },
+    {
+      "id": "41538",
+      "output": "\"Distill-and-Select: A Knowledge Distillation Framework for Fine-grained Incident Video Retrieval and High Performance Content-based Video Retrieval\""
+    },
+    {
+      "id": "41303",
+      "output": "\"Characterization and Algorithmic Problems in Slender and Hairpin Completion of Regular and Context-Free Languages\""
+    },
+    {
+      "id": "41680",
+      "output": "\"Efficient Indexing Structures for Fast Insertions in Large Data Warehouses: Introducing the Y-Tree and T1SM/T2SM Storage Managers\""
+    },
+    {
+      "id": "412383",
+      "output": "Constructing Phylogenetic Networks with Minimum Hybrid Vertices: A Complete Answer to the General Case"
+    },
+    {
+      "id": "411263",
+      "output": "Automatic Analysis of Spoken Medical Dialogue: Uncovering Structure and Facilitating Processing"
+    },
+    {
+      "id": "411974",
+      "output": "\"Exploring the Evolution and Untapped Potential of UML 2.0: A Comprehensive Tutorial\""
+    },
+    {
+      "id": "412388",
+      "output": "\"Persistent ET0L Systems: Equivalence to Other Grammars and Insights into Nondeterminism\""
+    },
+    {
+      "id": "41945",
+      "output": "\"Priority Sampling: A Superior Method for Weighted Sampling and Subset Sum Estimation\""
+    },
+    {
+      "id": "412124",
+      "output": "Efficient Spatio-Textual Similarity Join Using MapReduce: Approaches and Optimization Methods"
+    },
+    {
+      "id": "411345",
+      "output": "\"Scalable Distributed Real-Time Search and Recommendations for Microblogs and Databases\""
+    },
+    {
+      "id": "411524",
+      "output": "Schema Integration Technique for Integrating Multiple Autonomous Database Systems: A Unified Model Approach"
+    },
+    {
+      "id": "41112",
+      "output": "Analyzing the Performance of Acoustical Source Localization Methods in the Presence of Room Reverberation: A Statistical Approach"
+    },
+    {
+      "id": "412314",
+      "output": "\"Unified Model for Information Quality Dimensions and Aesthetic Assessment of Images with Faces, Spectral Recovery, and Illuminant Estimation in Digital Still Cameras\""
+    },
+    {
+      "id": "412301",
+      "output": "\"Representation and Algorithms for Independence Models in Acyclic Directed Graphs\""
+    },
+    {
+      "id": "411951",
+      "output": "\"Truly Subcubic Algorithms for All Pairs Bottleneck Paths and Centrality Measures in Dense Graphs\""
+    },
+    {
+      "id": "411469",
+      "output": "Understanding and Responding to Human Touch: Insights from Interactions with a Robot Pet Companion and the Corpus of Social Touch"
+    },
+    {
+      "id": "411806",
+      "output": "The Relationship Between Bloat, Overfitting, and Functional Complexity in Genetic Programming: Measures, Experimental Results, and Future Directions"
+    },
+    {
+      "id": "41897",
+      "output": "Automated Shape Analysis for Complex Pointer Data Structures: Discovering Invariants and Ensuring Safety"
+    },
+    {
+      "id": "411801",
+      "output": "\"Machine Learning Approaches for Biomarker Discovery in Bioinformatics: Enhancing Interpretability and Practical Application\""
+    },
+    {
+      "id": "41598",
+      "output": "\"Web Servers for Predicting RNA Secondary Structure and RNA-RNA Interactions: A PETfold Approach\""
+    },
+    {
+      "id": "41718",
+      "output": "\"Secure Reliable Multicast Protocols: Cost Reduction and Trade-offs for Large Networks\""
+    }
+  ]
+}
